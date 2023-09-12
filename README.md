@@ -1,5 +1,5 @@
 # Pipocando Filmes
-Pipocando Filmes é um projeto React Vite que utiliza as APIs da OMDB e TMDb para criar um visualizador e pesquisador de filmes e séries. Com esta aplicação, os usuários podem buscar informações detalhadas sobre filmes e séries, visualizar seus detalhes, elenco, avaliações e muito mais.
+Pipocando Filmes é um projeto React Vite e TailwindCSS que utiliza as APIs da OMDB e TMDb para criar um visualizador e pesquisador de filmes e séries. Com esta aplicação, os usuários podem buscar informações detalhadas sobre filmes e séries, visualizar seus detalhes, elenco, avaliações e muito mais.
 
 
 ## Recursos
