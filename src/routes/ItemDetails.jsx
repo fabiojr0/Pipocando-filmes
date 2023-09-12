@@ -40,7 +40,7 @@ const ItemDetails = () => {
             
         <img src={movieData.Poster} className="w-xs max-sm:w-full max-h-[520px] sm:rounded-lg" alt={movieData.Title}/>
         
-        <div className="flex flex-col sm:gap-4 w-4/6">
+        <div className="flex flex-col sm:gap-4 sm:w-4/6">
             <div className="w-full flex flex-col items-center sm:items-start justify-center gap-2 pt-2 px-2">
                 <p className="text-zinc-400 text-sm sm:text-xl order-2">{movieData.Genre}</p>
                 <h1 className="text-zinc-50 text-2xl text-center sm:text-start">{movieData.Title}</h1>
